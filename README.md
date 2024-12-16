@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bapt-Tech
-- 🐍 I'm a junior developper in Python
-- 👀 I’m interested in front/back developpement (in Python)
-- 🌱 I’m currently learning C# and .NET
-- 💞️ I’m looking to collaborate on Python
+- 🐍 I'm a junior developper in Python, HTML, CSS and also LUA
+- 👀 I’m interested in front/back developpement
+- 🌱 I’m currently learning C# and .NET Framework
+- 💞️ I’m looking to collaborate on some projects that need LUA and C++
 - 📫 Reach me by GitHub !
